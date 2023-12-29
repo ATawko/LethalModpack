@@ -7,12 +7,20 @@ This is intended to be a quick & easy install for all who join.
 
 
 # Changelog
+# v 1.0.3
+- Removed BiggerLobby
+- Added Needy Cats
+- Updated Mod Versions
 
-# 1.0.1
+# v 1.0.2
+- Removed Lethal Things
+- Removed SandWormNerf
+
+# v 1.0.1
 - Updated README.md
 
 # v 1.0.0
-- Initialization of modpack
+- Initialization of Modpack
 
 Modlist:
 - LC_API by 2018
